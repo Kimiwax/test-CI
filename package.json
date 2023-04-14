@@ -6,7 +6,8 @@
   "author": "Kevin Alexis Arias <83034131+Kimiwax@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "typescript": "^5.0.4"
   },
   "scripts": {
     "dev": "",
